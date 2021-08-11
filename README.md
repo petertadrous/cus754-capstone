@@ -25,3 +25,8 @@ Recent facial recognition techniques have tried to tackle the issue of imbalance
 - Buolamwini, Joy and Gebru, Timnit. 2018. *Gender shades: Intersectional accuracy disparities in commercial gender classification*.
 - Wu, Wenying and Protopapas, Pavlos and Yang, Zheng and Michalatos, Panagiotis. 2020. *Gender Classification and Bias Mitigation in Facial Images*.
 - Gal, Yarin, and Zoubin Ghahramani. 2015. *Dropout As A Bayesian Approximation: Representing Model Uncertainty In Deep Learning*.
+
+## Acknowledgements
+
+- https://github.com/dchen236/FairFace
+- https://github.com/dmolony3/Torch_to_TF
